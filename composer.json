@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mustache/mustache": "^2.12",
+        "symfony/var-dumper": "^3.3"
+    }
+}
